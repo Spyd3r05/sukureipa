@@ -19,7 +19,6 @@ async function scrapeDoctors() {
       timeout: 90000,
     });
 
-    // Ensure navbar toggle is visible and click it (needed for mobile view)
     await page.waitForSelector(".navbar-toggle", { visible: true });
     await page.click(".navbar-toggle");
 
