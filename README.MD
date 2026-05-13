@@ -20,7 +20,7 @@ The output will be a JSON file containing the scraped data.
 
 ### Notabene
 
-Scraping government websites is illegal and unethical. This scraper is for educational purposes only.
+This scraper is for educational purposes only.
 
 ### Disclaimer
 
